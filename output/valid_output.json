@@ -1,0 +1,36 @@
+{
+    "standings": [
+        {
+            "team": "Dragons",
+            "played": 2,
+            "wins": 2,
+            "draws": 0,
+            "losses": 0,
+            "goals_for": 4,
+            "goals_against": 1,
+            "points": 6
+        },
+        {
+            "team": "Tigers",
+            "played": 2,
+            "wins": 0,
+            "draws": 1,
+            "losses": 1,
+            "goals_for": 2,
+            "goals_against": 3,
+            "points": 1
+        },
+        {
+            "team": "Wolves",
+            "played": 2,
+            "wins": 0,
+            "draws": 1,
+            "losses": 1,
+            "goals_for": 3,
+            "goals_against": 5,
+            "points": 1
+        }
+    ],
+    "top_scoring_team": "Dragons",
+    "total_matches": 3
+}

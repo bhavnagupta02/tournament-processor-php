@@ -1,0 +1,47 @@
+{
+  "tournament": "Champions Cup",
+  "season": 2025,
+  "teams": [
+    {
+      "id": 1,
+      "name": "Dragons",
+      "country": "Spain"
+    },
+    {
+      "id": 2,
+      "name": "Wolves",
+      "country": "Germany"
+    },
+    {
+      "id": 3,
+      "name": "Tigers",
+      "country": "France"
+    }
+  ],
+  "matches": [
+    {
+      "id": 101,
+      "home_team": 1,
+      "away_team": 2,
+      "home_score": 3,
+      "away_score": 1,
+      "date": "2025-03-10"
+    },
+    {
+      "id": 102,
+      "home_team": 2,
+      "away_team": 3,
+      "home_score": 2,
+      "away_score": 2,
+      "date": "2025-03-12"
+    },
+    {
+      "id": 103,
+      "home_team": 3,
+      "away_team": 1,
+      "home_score": 0,
+      "away_score": 1,
+      "date": "2025-03-15"
+    }
+  ]
+}

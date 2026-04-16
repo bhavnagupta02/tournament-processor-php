@@ -1,0 +1,21 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "name": "Dragons"
+    },
+    {
+      "id": 2,
+      "name": "Wolves"
+    }
+  ],
+  "matches": [
+    {
+      "id": 101,
+      "home_team": 1,
+      "away_team": 2,
+      "home_score": "3",
+      "away_score": 1
+    }
+  ]
+}
